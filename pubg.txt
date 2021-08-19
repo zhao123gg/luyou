@@ -1,0 +1,11 @@
+# pubg
+TslGame.exe
+TslGame_BE.exe
+TslGame_UC.exe
+TslGame_ZK.exe
+UnrealCEFSubProcess_3071.exe
+BroCrashReporter.exe
+WinMTR.exe
+BEService_x64.exe
+iigw_server.exe
+ExecPubg.exe
