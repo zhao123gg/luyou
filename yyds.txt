@@ -1,15 +1,2 @@
 # quan
-ie_to_edge_stub.exe
-setup.exe
-cookie_exporter.exe
-elevation_service.exe
-identity_helper.exe
 msedge.exe
-msedgewebview2.exe
-msedge_proxy.exe
-msedge_pwa_launcher.exe
-notification_helper.exe
-pwahelper.exe
-msedge.exe
-msedge_proxy.exe
-pwahelper.exe
